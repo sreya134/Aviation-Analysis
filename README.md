@@ -22,6 +22,10 @@ Data Preprocessing: Handling missing values, removing duplicates, filtering irre
 Feature Engineering: Creating new temporal variables and interaction terms to better understand the dynamics affecting taxi-in times.
 Exploratory Data Analysis: Visualizing trends and correlations between variables to identify patterns in taxi-in delays.
 Models
+
+**STATS models**
+STATS models is a library that is specifically created for the purpose of statistical modeling and analysis. The software provides powerful capabilities for estimating diverse statistical models, executing statistical tests, and enabling comprehensive data exploration. This library is highly beneficial for regression analysis, one of its most common uses. It gives detailed statistical data, making it appropriate for traditional statistical analysis and modeling.
+
 The following machine learning models were implemented and compared:
 
 Linear Regression: A baseline model to understand linear relationships.
@@ -42,7 +46,9 @@ The project highlights the importance of advanced predictive models in improving
 Programming Languages: Python
 Libraries: Pandas, Scikit-learn, XGBoost
 Tools: Data Preprocessing, Feature Engineering, Machine Learning, Data Visualization
-References
+**References**
+Diana, T. (2018). Can machines learn how to forecast tax-out time?
 Anupkumar, A. (2023). Economic impact of flight delays
 Choi, S., & Kim, Y. J. (2021). Airport capacity prediction
 Dinler, N., & Rankin, W. B. (2020). On-time arrival performance
+
