@@ -12,12 +12,12 @@ Conclusion
 Technologies Used
 References
 Introduction
-Newark Liberty International Airport (EWR) is a major transportation hub, facing significant operational challenges due to high passenger and flight volumes. This project focuses on predicting taxi-in delays using data from 2018 and 2023, incorporating factors such as time of day, weather conditions, and airport congestion.
+**Newark Liberty International Airport** (EWR) is a major transportation hub, facing significant operational challenges due to high passenger and flight volumes. This project focuses on predicting taxi-in delays using data from 2018 and 2023, incorporating factors such as time of day, weather conditions, and airport congestion.
 
 Data
 The datasets used in this project were obtained from EWR's operational records and include various metrics such as efficiency computations, delay averages, and facility reports. Data preprocessing involved cleaning, normalization, and feature engineering to ensure accurate and reliable analysis.
 
-Methodology
+**Methodology**
 Data Preprocessing: Handling missing values, removing duplicates, filtering irrelevant data, and converting data types.
 Feature Engineering: Creating new temporal variables and interaction terms to better understand the dynamics affecting taxi-in times.
 Exploratory Data Analysis: Visualizing trends and correlations between variables to identify patterns in taxi-in delays.
@@ -38,7 +38,7 @@ The project highlights the importance of advanced predictive models in improving
 
 ![image](https://github.com/user-attachments/assets/9d86aafc-9758-4b72-9d1d-c1ced50118bb)
 
-Technologies Used
+**Technologies Used**
 Programming Languages: Python
 Libraries: Pandas, Scikit-learn, XGBoost
 Tools: Data Preprocessing, Feature Engineering, Machine Learning, Data Visualization
