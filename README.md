@@ -18,12 +18,14 @@ Data
 The datasets used in this project were obtained from EWR's operational records and include various metrics such as efficiency computations, delay averages, and facility reports. Data preprocessing involved cleaning, normalization, and feature engineering to ensure accurate and reliable analysis.
 
 **Methodology**
+
 Data Preprocessing: Handling missing values, removing duplicates, filtering irrelevant data, and converting data types.
 Feature Engineering: Creating new temporal variables and interaction terms to better understand the dynamics affecting taxi-in times.
 Exploratory Data Analysis: Visualizing trends and correlations between variables to identify patterns in taxi-in delays.
 Models
 
 **STATS models**
+
 STATS models is a library that is specifically created for the purpose of statistical modeling and analysis. The software provides powerful capabilities for estimating diverse statistical models, executing statistical tests, and enabling comprehensive data exploration. This library is highly beneficial for regression analysis, one of its most common uses. It gives detailed statistical data, making it appropriate for traditional statistical analysis and modeling.
 
 The following machine learning models were implemented and compared:
