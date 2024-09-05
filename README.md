@@ -2,17 +2,10 @@
 
 This project applies various machine learning techniques to predict and analyze operational efficiency and taxi-in delays at Newark Liberty International Airport (EWR). The study aims to provide insights that can enhance airport operations, reduce delays, and improve passenger satisfaction.
 
-Table of Contents
-Introduction
-Data
-Methodology
-Models
-Results
-Conclusion
-Technologies Used
-References
-Introduction
 **Newark Liberty International Airport** (EWR) is a major transportation hub, facing significant operational challenges due to high passenger and flight volumes. This project focuses on predicting taxi-in delays using data from 2018 and 2023, incorporating factors such as time of day, weather conditions, and airport congestion.
+
+![images](https://github.com/user-attachments/assets/63c957a0-023a-43a6-b90d-4a7e75d9407a)
+
 
 Data
 The datasets used in this project were obtained from EWR's operational records and include various metrics such as efficiency computations, delay averages, and facility reports. Data preprocessing involved cleaning, normalization, and feature engineering to ensure accurate and reliable analysis.
