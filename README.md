@@ -7,7 +7,8 @@ This project applies various machine learning techniques to predict and analyze 
 ![images](https://github.com/user-attachments/assets/63c957a0-023a-43a6-b90d-4a7e75d9407a)
 
 
-Data
+**Data**
+
 The datasets used in this project were obtained from EWR's operational records and include various metrics such as efficiency computations, delay averages, and facility reports. Data preprocessing involved cleaning, normalization, and feature engineering to ensure accurate and reliable analysis.
 
 **Methodology**
